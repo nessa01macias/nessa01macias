@@ -2,7 +2,7 @@
 Nice to see you around here! 
 I am Melany, and here are few things about me:
 
--  🚀 I’m currently pursuing **Information Technology Bachelor of Engineering**
+-  🚀 I’m pursuing **Information Technology Bachelor of Engineering**
 - :bulb: I'm interested in **Machine Learning, Data Science, Embedded Systems & Mathematics**
 - 🔭 I’m currently working on expanding my knowledge in **Machine Learning**
 
