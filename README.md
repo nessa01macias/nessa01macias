@@ -1,11 +1,6 @@
 ## Hihihi 👋
 Nice to see you around here! 
-I am Melany, and here are few things about me:
-
--  🚀 I’m a **Information Technology Bachelor of Engineering** graduate from Metropolia UAS.
-- :bulb: I'm interested in **Artificial Intelligence, Data Science &  Embedded Systems**
-- 🔭 I’m currently working on expanding my knowledge in **Mathematics (Calculus, Lineal Algebra, Stadistics...)**
-- 📫 Find me on Linkedin [Melany Macias](https://www.linkedin.com/in/melanymacias/)
+If you wanna chat, feel free to drop me a message :) [Melany Macias](https://www.linkedin.com/in/melanymacias/)
 
 I have been working with the following:<br/> 
 <div>
